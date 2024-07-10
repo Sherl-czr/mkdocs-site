@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: 常振荣的个人网站
+site_url: https://sherl-czr.github.io
+site_author: 常振荣
+site_description: 常振荣的个人网站
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: material
