@@ -4,6 +4,7 @@ site_author: 常振荣
 site_description: 常振荣的个人网站
 nav:
   - Home: index.md
-  - About: about.md
+  - 编程: 编程/web开发/coding.md
 
 theme: material
+edit_uri: edit/main/docs/
