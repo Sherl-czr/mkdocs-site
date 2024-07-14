@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Welcome to my space
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+本网站有关我的编程学习实践记录分享、游戏（Game）相关的知识和体验分享、数码产品基本知识和体验分享、书籍电影的感悟分享。
 
-## Commands
+## 个人介绍
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+本人是 24 届西电计科本科毕业生，目前在国企工作，希望能够活的有价值、有意义，尝试不同的事情和探索自身的潜能。
