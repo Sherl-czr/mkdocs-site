@@ -4,7 +4,15 @@ site_author: 常振荣
 site_description: 常振荣的个人网站
 nav:
   - Home: index.md
-  - 编程: 编程/web开发/coding.md
+  - 编程:
+      - coding/coding.md
+  - 游戏:
+      - game/game.md
 
-theme: material
+theme:
+  name: material
+  # 后续可以扩展日间模式和夜间模式
+  language: zh
+  icon:
+    repo: fontawesome/brands/github
 edit_uri: edit/main/docs/
