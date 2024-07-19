@@ -8,6 +8,9 @@ nav:
       - coding/coding.md
   - 游戏:
       - game/game.md
+  - 物理教学:
+      - physics/8up.md
+      - physics/8down.md
 
 theme:
   name: material
