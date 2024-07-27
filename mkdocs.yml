@@ -6,6 +6,13 @@ nav:
   - Home: index.md
   - 编程:
       - coding/coding.md
+      - hot100:
+        - coding/hot100/两数之和.md
+      - 个人技术简历:
+        - coding/skillResume/resume.md
+      - 前端技术栈:
+        - js:
+          - coding/前端技术栈/js/js.md
   - 游戏:
       - game/game.md
   - 物理教学:
